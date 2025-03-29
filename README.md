@@ -21,21 +21,6 @@ Key Specifications:
 - Custom PCB with STM32H743  
 - EIDORS-based reconstruction  
 
-## 🛠️ Repository Structure  
-```
-STMF/
-├── Hardware/                  # PCB schematics, BOM, firmware
-│   ├── Schematics/            # Altium design files
-│   ├── STM32_Code/            # STM32H743 firmware
-│   └── BOM/                   # Bill of Materials
-├── Software/                  # MATLAB scripts and GUI
-│   ├── EIT_GUI/               # MATLAB App
-│   ├── EIDORS_Integration/    # Reconstruction algorithms
-│   └── Test_Data/             # Sample datasets
-├── Docs/                      # User manuals
-└── README.md
-```
-
 ## 🔌 Hardware Setup  
 ### Components  
 - STM32H743VGT6 Microcontroller  
